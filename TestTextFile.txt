@@ -1,1 +1,2 @@
 My textfile 1
+My textfile 2
